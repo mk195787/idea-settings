@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>461</Count>
+          <Count>463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -455,6 +455,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ProductRepositoryPagingFragmentTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'S3TriggeredJobSubmitterLambdaTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'S3TriggeredJobSubmitterLambdaTest'</Description>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SensorReadings....main()'">
