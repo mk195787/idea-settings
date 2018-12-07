@@ -862,7 +862,7 @@
           <IdeaActionID>TFFmtFileAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F'</ShortCut>
           <Description>Terraform fmt file</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
