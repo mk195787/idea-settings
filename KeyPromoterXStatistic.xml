@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>506</Count>
+          <Count>509</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -694,7 +694,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'Alt+Shift+F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -702,7 +702,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -878,7 +878,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>60</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terraform fmt file">
@@ -910,7 +910,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>235</Count>
+          <Count>242</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
