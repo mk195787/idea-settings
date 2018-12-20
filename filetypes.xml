@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
