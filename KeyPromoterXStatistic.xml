@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>656</Count>
+          <Count>664</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -425,6 +425,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'RecommendedMaintenanceRepositoryTest.shouldUseEffectiveTimeSpecification'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'RecommendedMaintenanceRepositoryTest.shouldUseEffectiveTimeSpecification'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SensorReadingsApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -478,7 +486,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>64</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -494,7 +502,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>84</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -502,7 +510,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>68</Count>
+          <Count>69</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All in integration-tests-runner@postgre'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'All in integration-tests-runner@postgre'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DemoConfigControllerIT'">
@@ -527,6 +543,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ProductRepositoryPagingFragmentTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RecommendedMaintenanceRepositoryTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'RecommendedMaintenanceRepositoryTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'S3TriggeredJobSubmitterLambdaTest'">
@@ -766,7 +790,7 @@
           <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
           <ShortCut>'Alt+Shift+F10'</ShortCut>
           <Description>Run...</Description>
-          <Count>32</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -833,6 +857,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'All in integration-tests-runner'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'All in integration-tests-runner'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All in integration-tests-runner@postgre'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'All in integration-tests-runner@postgre'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ProductListQueryModelRepositoryTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -847,6 +887,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ProductRepositoryPagingFragmentTest'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RecommendedMaintenanceRepositoryTest.shouldUseEffectiveTimeSpecification'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RecommendedMaintenanceRepositoryTest.shouldUseEffectiveTimeSpecification'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SensorReadingsApplication'">
@@ -1006,7 +1054,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -1022,7 +1070,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>287</Count>
+          <Count>290</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
