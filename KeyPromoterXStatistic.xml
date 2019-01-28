@@ -329,6 +329,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild ...ration-tests-runner'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Rebuild ...ration-tests-runner'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rebuild Module 'uptime'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -510,7 +518,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>76</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in integration-tests-runner@postgre'">
