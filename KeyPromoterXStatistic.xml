@@ -518,7 +518,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in integration-tests-runner@postgre'">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>296</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
