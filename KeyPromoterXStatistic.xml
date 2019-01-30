@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>702</Count>
+          <Count>710</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -833,6 +833,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'shouldSaveFailureP...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'shouldSaveFailureP...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'shouldUpdateOwner()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -958,6 +966,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'FailurePredictionsControllerTest.shouldReturnOkStatusForFailurePredictionsJson2'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FailurePredictionsServiceTest.shouldSaveFailurePredictionAndCreateRecommendedMaintenance'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FailurePredictionsServiceTest.shouldSaveFailurePredictionAndCreateRecommendedMaintenance'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
