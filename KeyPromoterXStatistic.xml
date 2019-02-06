@@ -198,7 +198,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -518,7 +518,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>355</Count>
+          <Count>357</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
