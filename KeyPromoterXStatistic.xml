@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>93</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -902,7 +902,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>365</Count>
+          <Count>369</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
