@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>846</Count>
+          <Count>847</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -966,7 +966,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>68</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>375</Count>
+          <Count>377</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
