@@ -3,6 +3,12 @@
   <action id="CompileProject">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
