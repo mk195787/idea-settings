@@ -4,10 +4,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
   <action id="EditorDecreaseFontSize">
-    <mouse-shortcut keystroke="control button142" />
+    <mouse-shortcut keystroke="shift control button142" />
   </action>
   <action id="EditorIncreaseFontSize">
-    <mouse-shortcut keystroke="control button143" />
+    <mouse-shortcut keystroke="shift control button143" />
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="alt f" />
