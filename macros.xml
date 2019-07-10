@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="codestyle">
+      <action id="CheckStyleProjectFilesAction" />
+      <action id="FindBugs.ProjectFilesAction" />
+    </macro>
+  </component>
+</application>
