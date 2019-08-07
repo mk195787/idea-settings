@@ -14,7 +14,6 @@
     <mask>*.sh</mask>
     <mask>.gitignore</mask>
     <mask>!*Test.java, *.java</mask>
-    <mask>*xml</mask>
     <mask>*Fix*java</mask>
     <mask>*Test.java</mask>
     <mask>*changelog*.xml</mask>
@@ -31,5 +30,6 @@
     <mask>*.xml</mask>
     <mask>*changelog.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*xml</mask>
   </component>
 </application>
