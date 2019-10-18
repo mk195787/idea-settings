@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*changelog.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -32,9 +32,9 @@
     <mask>*Controller.java</mask>
     <mask>*ControllerTest.java</mask>
     <mask>*.properties</mask>
-    <mask>*changelog.xml</mask>
     <mask>*Configuration.java</mask>
-    <mask>*java</mask>
     <mask>pom.xml</mask>
+    <mask>*java</mask>
+    <mask>*changelog.xml</mask>
   </component>
 </application>
