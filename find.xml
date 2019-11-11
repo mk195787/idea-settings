@@ -13,7 +13,6 @@
     <mask>*Fix*java</mask>
     <mask>*changelog*.xml</mask>
     <mask>*.ts</mask>
-    <mask>*.java</mask>
     <mask>*change*.xml</mask>
     <mask>*.md</mask>
     <mask>*md</mask>
@@ -33,5 +32,6 @@
     <mask>*java</mask>
     <mask>*xml</mask>
     <mask>*Repository.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
