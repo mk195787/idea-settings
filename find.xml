@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -29,10 +29,10 @@
     <mask>*changelog.xml</mask>
     <mask>*Contro*java</mask>
     <mask>*Repository*java</mask>
-    <mask>*xml</mask>
     <mask>*Repository.java</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*java</mask>
+    <mask>*xml</mask>
   </component>
 </application>
