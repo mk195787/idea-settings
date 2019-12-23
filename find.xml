@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sh</mask>
     <mask>.gitignore</mask>
@@ -33,5 +32,6 @@
     <mask>*java</mask>
     <mask>*AppService.java</mask>
     <mask>*Service.java</mask>
+    <mask>*filter*java</mask>
   </component>
 </application>
