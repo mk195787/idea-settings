@@ -1,10 +1,20 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="autoTrigger" value="false" />
     <option name="excludedRules">
       <set>
         <option value="squid:S1220" />
       </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.syncron.team" />
+          <option name="name" value="sonar.syncron.team" />
+          <option name="login" value="markie" />
+          <password>dfebdfc6dfcbdfc7dfcbdfc1dfc5dfdedfcbdf9cdf93dfebdfc6dfcbdfc7dfcbdfc1dfc5dfdedfcbdf8b</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
     </option>
   </component>
 </application>
