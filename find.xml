@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*.mxml</mask>
     <mask>*.sh</mask>
     <mask>.gitignore</mask>
@@ -32,7 +32,7 @@
     <mask>*AppService.java</mask>
     <mask>*Service.java</mask>
     <mask>*filter*java</mask>
-    <mask>*java</mask>
     <mask>pom.xml</mask>
+    <mask>*java</mask>
   </component>
 </application>
