@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
-    <mask>*.sh</mask>
+    <option name="FILE_MASK" value="*Config*java" />
     <mask>.gitignore</mask>
     <mask>!*Test.java, *.java</mask>
     <mask>*Fix*java</mask>
@@ -34,5 +33,6 @@
     <mask>*md</mask>
     <mask>pom.xml</mask>
     <mask>*java</mask>
+    <mask>*Config*java</mask>
   </component>
 </application>
