@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>.gitignore</mask>
     <mask>!*Test.java, *.java</mask>
     <mask>*Fix*java</mask>
@@ -15,7 +15,6 @@
     <mask>*ControllerTest.java</mask>
     <mask>*Configuration.java</mask>
     <mask>*ts</mask>
-    <mask>*Test.java</mask>
     <mask>*DTO.java</mask>
     <mask>*changelog.xml</mask>
     <mask>*Contro*java</mask>
@@ -34,5 +33,6 @@
     <mask>pom.xml</mask>
     <mask>*Config*java</mask>
     <mask>*java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
