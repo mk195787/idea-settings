@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*.ts</mask>
     <mask>*change*.xml</mask>
     <mask>*.xml</mask>
@@ -25,7 +26,6 @@
     <mask>*html</mask>
     <mask>*md</mask>
     <mask>*Config*java</mask>
-    <mask>*java</mask>
     <mask>*Test.java</mask>
     <mask>!*Ala*.java</mask>
     <mask>!*Immutable*.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*contr*java</mask>
     <mask>pom.xml</mask>
+    <mask>*java</mask>
   </component>
 </application>
