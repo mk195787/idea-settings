@@ -1,13 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Configuration.java" />
     <mask>*change*.xml</mask>
     <mask>*.xml</mask>
     <mask>*Controller.java</mask>
     <mask>*ControllerTest.java</mask>
-    <mask>*Configuration.java</mask>
     <mask>*ts</mask>
     <mask>*DTO.java</mask>
     <mask>*changelog.xml</mask>
@@ -33,5 +35,6 @@
     <mask>*xml</mask>
     <mask>*json</mask>
     <mask>*java</mask>
+    <mask>*Configuration.java</mask>
   </component>
 </application>
