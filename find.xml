@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Controller.java</mask>
     <mask>*ControllerTest.java</mask>
     <mask>*ts</mask>
     <mask>*DTO.java</mask>
@@ -33,5 +32,6 @@
     <mask>*.md</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>Configuration.java</mask>
   </component>
 </application>
