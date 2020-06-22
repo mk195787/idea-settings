@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*ControllerTest.java</mask>
     <mask>*ts</mask>
     <mask>*DTO.java</mask>
@@ -10,7 +11,6 @@
     <mask>*Contro*java</mask>
     <mask>*Repository*java</mask>
     <mask>*Repository.java</mask>
-    <mask>*.properties</mask>
     <mask>*AppService.java</mask>
     <mask>*Service.java</mask>
     <mask>*filter*java</mask>
@@ -33,5 +33,6 @@
     <mask>*Test.java</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
