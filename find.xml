@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*ts</mask>
     <mask>*DTO.java</mask>
     <mask>*changelog.xml</mask>
@@ -19,7 +20,6 @@
     <mask>!*Immutable*.java</mask>
     <mask>*Config*.java</mask>
     <mask>*contr*java</mask>
-    <mask>*xml</mask>
     <mask>*pom.xml</mask>
     <mask>*json</mask>
     <mask>*Repository*</mask>
@@ -33,5 +33,6 @@
     <mask>pom.xml</mask>
     <mask>*java</mask>
     <mask>*Queue*java</mask>
+    <mask>*xml</mask>
   </component>
 </application>
