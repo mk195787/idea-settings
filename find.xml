@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Configuration.java" />
     <mask>*ts</mask>
     <mask>*DTO.java</mask>
     <mask>*changelog.xml</mask>
@@ -22,7 +23,6 @@
     <mask>*pom.xml</mask>
     <mask>*json</mask>
     <mask>*Repository*</mask>
-    <mask>*Configuration.java</mask>
     <mask>*.md</mask>
     <mask>Configuration.java</mask>
     <mask>*Test.java</mask>
@@ -33,5 +33,6 @@
     <mask>*java</mask>
     <mask>*Queue*java</mask>
     <mask>*xml</mask>
+    <mask>*Configuration.java</mask>
   </component>
 </application>
