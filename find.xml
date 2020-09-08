@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*changelog.xml</mask>
     <mask>*Contro*java</mask>
     <mask>*Repository*java</mask>
@@ -11,7 +12,6 @@
     <mask>*Service.java</mask>
     <mask>*filter*java</mask>
     <mask>*html</mask>
-    <mask>*md</mask>
     <mask>*Config*java</mask>
     <mask>!*Ala*.java</mask>
     <mask>!*Immutable*.java</mask>
@@ -28,10 +28,11 @@
     <mask>*Configuration.java</mask>
     <mask>*</mask>
     <mask>*xml</mask>
-    <mask>pom.xml</mask>
     <mask>*Test.java</mask>
     <mask>*config*.java</mask>
     <mask>*java</mask>
     <mask>*properties</mask>
+    <mask>*md</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
