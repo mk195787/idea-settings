@@ -7,7 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Contro*java</mask>
     <mask>*Repository*java</mask>
     <mask>*Repository.java</mask>
@@ -35,8 +35,8 @@
     <mask>*md</mask>
     <mask>*.properties</mask>
     <mask>*</mask>
-    <mask>*.xml</mask>
     <mask>*java</mask>
     <mask>pom.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
