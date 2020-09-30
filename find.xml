@@ -7,7 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Repository*java</mask>
+    <option name="FILE_MASK" value="*CaseDTO.java" />
     <mask>*Repository.java</mask>
     <mask>*AppService.java</mask>
     <mask>*Service.java</mask>
@@ -37,5 +37,6 @@
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*DTO.java</mask>
+    <mask>*CaseDTO.java</mask>
   </component>
 </application>
