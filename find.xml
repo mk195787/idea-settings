@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*Repository.java</mask>
     <mask>*AppService.java</mask>
     <mask>*Service.java</mask>
@@ -28,10 +29,10 @@
     <mask>*.properties</mask>
     <mask>*</mask>
     <mask>*java</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*DTO.java</mask>
     <mask>*CaseDTO.java</mask>
     <mask>*xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
