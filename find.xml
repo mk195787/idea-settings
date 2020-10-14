@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
-    <mask>*Repository.java</mask>
+    <option name="FILE_MASK" value="*proper" />
     <mask>*AppService.java</mask>
     <mask>*Service.java</mask>
     <mask>*filter*java</mask>
@@ -34,5 +33,6 @@
     <mask>*xml</mask>
     <mask>pom.xml</mask>
     <mask>*java</mask>
+    <mask>*proper</mask>
   </component>
 </application>
