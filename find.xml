@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*json" />
     <mask>*html</mask>
     <mask>*Config*java</mask>
     <mask>!*Ala*.java</mask>
@@ -10,7 +11,6 @@
     <mask>*Config*.java</mask>
     <mask>*contr*java</mask>
     <mask>*pom.xml</mask>
-    <mask>*json</mask>
     <mask>*Repository*</mask>
     <mask>*.md</mask>
     <mask>Configuration.java</mask>
@@ -33,5 +33,6 @@
     <mask>*xml</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
+    <mask>*json</mask>
   </component>
 </application>
