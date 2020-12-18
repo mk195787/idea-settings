@@ -31,8 +31,8 @@
     <mask>*</mask>
     <mask>*.xml</mask>
     <mask>*json</mask>
-    <mask>*java</mask>
     <mask>*properties</mask>
+    <mask>*java</mask>
     <mask>pom.xml</mask>
   </component>
 </application>
