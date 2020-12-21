@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*html</mask>
     <mask>*Config*java</mask>
     <mask>!*Ala*.java</mask>
@@ -19,7 +20,6 @@
     <mask>*Test.java</mask>
     <mask>*config*.java</mask>
     <mask>*md</mask>
-    <mask>*.properties</mask>
     <mask>*DTO.java</mask>
     <mask>*CaseDTO.java</mask>
     <mask>*proper</mask>
@@ -33,5 +33,6 @@
     <mask>*java</mask>
     <mask>*properties</mask>
     <mask>pom.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
