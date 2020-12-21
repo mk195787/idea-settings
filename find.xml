@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*" />
     <mask>*html</mask>
     <mask>*Config*java</mask>
     <mask>!*Ala*.java</mask>
@@ -26,12 +27,12 @@
     <mask>*.ts</mask>
     <mask>*.properties§</mask>
     <mask>*xml</mask>
-    <mask>*</mask>
     <mask>*.xml</mask>
     <mask>*json</mask>
     <mask>*properties</mask>
     <mask>pom.xml</mask>
     <mask>*.properties</mask>
     <mask>*java</mask>
+    <mask>*</mask>
   </component>
 </application>
