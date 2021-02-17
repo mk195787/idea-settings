@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ts" />
     <mask>*Config*java</mask>
     <mask>!*Ala*.java</mask>
     <mask>!*Immutable*.java</mask>
@@ -20,7 +21,6 @@
     <mask>*DTO.java</mask>
     <mask>*CaseDTO.java</mask>
     <mask>*proper</mask>
-    <mask>*ts</mask>
     <mask>*.ts</mask>
     <mask>*.properties§</mask>
     <mask>*.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*.java</mask>
     <mask>*Reposito*.java</mask>
     <mask>*xml</mask>
+    <mask>*ts</mask>
   </component>
 </application>
