@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*DTO.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*Config*java</mask>
     <mask>!*Ala*.java</mask>
     <mask>!*Immutable*.java</mask>
@@ -30,9 +30,9 @@
     <mask>*Reposito*.java</mask>
     <mask>*xml</mask>
     <mask>*ts</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*DTO.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
