@@ -23,7 +23,6 @@
     <mask>*Reposito*.java</mask>
     <mask>*ts</mask>
     <mask>*DTO.java</mask>
-    <mask>pom.xml</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
@@ -33,5 +32,6 @@
     <mask>*.ts</mask>
     <mask>*.</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
