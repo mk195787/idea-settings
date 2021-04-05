@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*Config*.java</mask>
+    <option name="FILE_MASK" value="*changelog.xml" />
     <mask>*contr*java</mask>
     <mask>*pom.xml</mask>
     <mask>*Repository*</mask>
@@ -36,5 +35,6 @@
     <mask>*.ts</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*changelog.xml</mask>
   </component>
 </application>
