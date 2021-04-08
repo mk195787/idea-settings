@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*xml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*pom.xml</mask>
     <mask>*Repository*</mask>
     <mask>*.md</mask>
@@ -28,13 +28,13 @@
     <mask>*Controller.java</mask>
     <mask>*Client.java</mask>
     <mask>*.</mask>
-    <mask>pom.xml</mask>
     <mask>*.ts</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*changelog.xml</mask>
     <mask>*java</mask>
     <mask>*info.java</mask>
     <mask>*xml</mask>
+    <mask>pom.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
