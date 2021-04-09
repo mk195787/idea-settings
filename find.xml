@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*pom.xml</mask>
     <mask>*Repository*</mask>
     <mask>*.md</mask>
@@ -23,17 +24,17 @@
     <mask>*ts</mask>
     <mask>*DTO.java</mask>
     <mask>*properties</mask>
-    <mask>*Test.java</mask>
     <mask>*Controller.java</mask>
     <mask>*Client.java</mask>
     <mask>*.</mask>
     <mask>*.ts</mask>
-    <mask>*.java</mask>
     <mask>*changelog.xml</mask>
     <mask>*java</mask>
     <mask>*info.java</mask>
     <mask>*xml</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
