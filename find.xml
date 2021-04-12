@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*pom.xml</mask>
     <mask>*Repository*</mask>
     <mask>*.md</mask>
@@ -32,9 +32,9 @@
     <mask>*java</mask>
     <mask>*info.java</mask>
     <mask>*xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
