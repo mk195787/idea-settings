@@ -21,7 +21,6 @@
     <mask>*.properties</mask>
     <mask>*Reposito*.java</mask>
     <mask>*ts</mask>
-    <mask>*properties</mask>
     <mask>*Controller.java</mask>
     <mask>*Client.java</mask>
     <mask>*.</mask>
@@ -35,5 +34,6 @@
     <mask>pom.xml</mask>
     <mask>*java</mask>
     <mask>*DTO.java</mask>
+    <mask>*properties</mask>
   </component>
 </application>
