@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*md" />
     <mask>*pom.xml</mask>
     <mask>*Repository*</mask>
     <mask>*.md</mask>
@@ -13,7 +13,6 @@
     <mask>*Queue*java</mask>
     <mask>*Configuration.java</mask>
     <mask>*config*.java</mask>
-    <mask>*md</mask>
     <mask>*CaseDTO.java</mask>
     <mask>*proper</mask>
     <mask>*.properties§</mask>
@@ -36,5 +35,6 @@
     <mask>*properties</mask>
     <mask>pom.xml</mask>
     <mask>*java</mask>
+    <mask>*md</mask>
   </component>
 </application>
