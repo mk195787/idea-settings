@@ -4,10 +4,8 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonar.syncron.team" />
-          <option name="name" value="sonar.syncron.team" />
-          <option name="login" value="markie" />
-          <password>dfebdfc6dfcbdfc7dfcbdfc1dfc5dfdedfcbdf9cdf93dfebdfc6dfcbdfc7dfcbdfc1dfc5dfdedfcbdf8b</password>
-          <organizationKey>default-organization</organizationKey>
+          <token>dfcfdf9cdfc8dfccdfc9df9ddfcfdf9edf9ddfcfdf93dfccdf9bdfc9df99df9fdfc8df92df98df9edf9ddf9bdfc8df9fdfc8dfc8df9cdf99df9cdf9bdfc9dfc8df93df9edf9edfccdf9edfcedfc8dfc9</token>
+          <option name="name" value="https://sonar.syncron.team" />
         </SonarQubeServer>
       </list>
     </option>
