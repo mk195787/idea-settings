@@ -33,10 +33,10 @@
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*DTO.java</mask>
-    <mask>*xml</mask>
     <mask>*pom.xml</mask>
     <mask>*beans.xml</mask>
     <mask>*revision.xml</mask>
+    <mask>*xml</mask>
     <mask>*java</mask>
   </component>
 </application>
