@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*Queue*java</mask>
     <mask>*Configuration.java</mask>
     <mask>*config*.java</mask>
@@ -36,7 +36,7 @@
     <mask>*pom.xml</mask>
     <mask>*beans.xml</mask>
     <mask>*revision.xml</mask>
-    <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>*xml</mask>
   </component>
 </application>
