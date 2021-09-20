@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*Configuration.java</mask>
     <mask>*config*.java</mask>
     <mask>*CaseDTO.java</mask>
@@ -28,7 +28,6 @@
     <mask>pom.xml</mask>
     <mask>*md</mask>
     <mask>*.md</mask>
-    <mask>*.properties</mask>
     <mask>*DTO.java</mask>
     <mask>*pom.xml</mask>
     <mask>*beans.xml</mask>
@@ -38,5 +37,6 @@
     <mask>@Entity.java</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
