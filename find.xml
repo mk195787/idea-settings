@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.xml" />
-    <mask>*Configuration.java</mask>
     <mask>*config*.java</mask>
     <mask>*CaseDTO.java</mask>
     <mask>*proper</mask>
@@ -30,9 +29,10 @@
     <mask>*xml</mask>
     <mask>*java</mask>
     <mask>@Entity.java</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*</mask>
+    <mask>*.properties</mask>
+    <mask>*.xhtml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
