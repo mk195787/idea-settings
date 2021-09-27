@@ -3,14 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*" />
     <mask>*Configuration.java</mask>
     <mask>*config*.java</mask>
     <mask>*CaseDTO.java</mask>
     <mask>*proper</mask>
     <mask>*.properties§</mask>
     <mask>*json</mask>
-    <mask>*</mask>
     <mask>*Reposito*.java</mask>
     <mask>*ts</mask>
     <mask>*Controller.java</mask>
@@ -34,5 +33,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*</mask>
   </component>
 </application>
