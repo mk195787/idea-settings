@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*json</mask>
     <mask>*Reposito*.java</mask>
     <mask>*ts</mask>
@@ -28,10 +29,10 @@
     <mask>pom.xml</mask>
     <mask>*</mask>
     <mask>*Item*Test*.java</mask>
-    <mask>*xml</mask>
     <mask>*properties</mask>
     <mask>*xhtml</mask>
     <mask>*java</mask>
     <mask>*propertiesd</mask>
+    <mask>*xml</mask>
   </component>
 </application>
