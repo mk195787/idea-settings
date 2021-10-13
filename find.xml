@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties§</mask>
+    <option name="FILE_MASK" value="*propertiesd" />
     <mask>*json</mask>
     <mask>*Reposito*.java</mask>
     <mask>*ts</mask>
@@ -33,5 +33,6 @@
     <mask>*properties</mask>
     <mask>*xhtml</mask>
     <mask>*java</mask>
+    <mask>*propertiesd</mask>
   </component>
 </application>
