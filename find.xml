@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xhtml" />
     <mask>*Reposito*.java</mask>
     <mask>*ts</mask>
     <mask>*Controller.java</mask>
@@ -28,10 +29,10 @@
     <mask>*</mask>
     <mask>*Item*Test*.java</mask>
     <mask>*properties</mask>
-    <mask>*xhtml</mask>
     <mask>*propertiesd</mask>
     <mask>*changeset.xml</mask>
-    <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>*xml</mask>
+    <mask>*xhtml</mask>
   </component>
 </application>
