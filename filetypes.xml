@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="sensor-readings-v2-request.json" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
-      <mapping ext="rst" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
