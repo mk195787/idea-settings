@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*" />
     <mask>*Controller.java</mask>
     <mask>*Client.java</mask>
     <mask>*.</mask>
@@ -19,10 +19,8 @@
     <mask>*revision.xml</mask>
     <mask>@Entity.java</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.xhtml</mask>
     <mask>*Settings.java</mask>
-    <mask>*</mask>
     <mask>*Item*Test*.java</mask>
     <mask>*propertiesd</mask>
     <mask>*changeset.xml</mask>
@@ -34,5 +32,7 @@
     <mask>*s.java</mask>
     <mask>*Dialect*.java</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*</mask>
   </component>
 </application>
