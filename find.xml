@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*properties" />
     <mask>*Controller.java</mask>
     <mask>*Client.java</mask>
     <mask>*.</mask>
@@ -26,13 +26,13 @@
     <mask>*changeset.xml</mask>
     <mask>*xhtml</mask>
     <mask>*xml</mask>
-    <mask>*properties</mask>
     <mask>pom.xml</mask>
     <mask>*java</mask>
     <mask>*s.java</mask>
     <mask>*Dialect*.java</mask>
+    <mask>*</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*</mask>
+    <mask>*properties</mask>
   </component>
 </application>
