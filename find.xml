@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*Client.java</mask>
     <mask>*.</mask>
     <mask>*.ts</mask>
@@ -23,7 +23,6 @@
     <mask>*Item*Test*.java</mask>
     <mask>*propertiesd</mask>
     <mask>*changeset.xml</mask>
-    <mask>*xhtml</mask>
     <mask>pom.xml</mask>
     <mask>*s.java</mask>
     <mask>*Dialect*.java</mask>
@@ -32,7 +31,8 @@
     <mask>*properties</mask>
     <mask>*n.java</mask>
     <mask>*</mask>
-    <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>*xhtml</mask>
+    <mask>*xml</mask>
   </component>
 </application>
