@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xhtml" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*Client.java</mask>
     <mask>*.</mask>
     <mask>*.ts</mask>
@@ -32,7 +32,7 @@
     <mask>*n.java</mask>
     <mask>*</mask>
     <mask>*java</mask>
-    <mask>*xml</mask>
     <mask>*xhtml</mask>
+    <mask>*xml</mask>
   </component>
 </application>
