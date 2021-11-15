@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.</mask>
     <mask>*.ts</mask>
     <mask>*changelog.xml</mask>
@@ -21,7 +22,6 @@
     <mask>*Item*Test*.java</mask>
     <mask>*propertiesd</mask>
     <mask>*changeset.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*s.java</mask>
     <mask>*Dialect*.java</mask>
     <mask>*.java</mask>
@@ -33,5 +33,6 @@
     <mask>*xhtml</mask>
     <mask>*java</mask>
     <mask>*WebTest.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
