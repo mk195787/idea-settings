@@ -14,4 +14,7 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
 </keymap>
