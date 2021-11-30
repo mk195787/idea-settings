@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.ts</mask>
     <mask>*changelog.xml</mask>
     <mask>*info.java</mask>
@@ -14,7 +15,6 @@
     <mask>*beans.xml</mask>
     <mask>*revision.xml</mask>
     <mask>@Entity.java</mask>
-    <mask>*.properties</mask>
     <mask>*Settings.java</mask>
     <mask>*Item*Test*.java</mask>
     <mask>*propertiesd</mask>
@@ -31,7 +31,8 @@
     <mask>*.xml</mask>
     <mask>TrSCP*.java</mask>
     <mask>*</mask>
-    <mask>*.xhtml</mask>
     <mask>*.java</mask>
+    <mask>*.xhtml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
