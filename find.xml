@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
-    <mask>*changelog.xml</mask>
+    <option name="FILE_MASK" value="*test.java" />
     <mask>*info.java</mask>
     <mask>*Test.java</mask>
     <mask>*md</mask>
@@ -36,5 +35,6 @@
     <mask>*xml</mask>
     <mask>*Facade.java</mask>
     <mask>*java</mask>
+    <mask>*test.java</mask>
   </component>
 </application>
