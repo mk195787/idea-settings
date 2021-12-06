@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*info.java</mask>
+    <option name="FILE_MASK" value="*Visit*" />
     <mask>*Test.java</mask>
     <mask>*md</mask>
     <mask>*.md</mask>
@@ -31,9 +31,10 @@
     <mask>*</mask>
     <mask>*xml</mask>
     <mask>*Facade.java</mask>
-    <mask>*java</mask>
     <mask>*test.java</mask>
     <mask>*properties</mask>
     <mask>*xhtml</mask>
+    <mask>*java</mask>
+    <mask>*Visit*</mask>
   </component>
 </application>
