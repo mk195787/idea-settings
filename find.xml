@@ -28,13 +28,13 @@
     <mask>*.java</mask>
     <mask>*DTO.java</mask>
     <mask>*</mask>
-    <mask>*xml</mask>
     <mask>*Facade.java</mask>
     <mask>*test.java</mask>
     <mask>*properties</mask>
     <mask>*Visit*</mask>
     <mask>*xhtml</mask>
     <mask>*WebTest.java</mask>
+    <mask>*xml</mask>
     <mask>*java</mask>
   </component>
 </application>
