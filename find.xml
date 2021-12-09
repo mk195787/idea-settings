@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*DAO.java" />
+    <option name="FILE_MASK" value="*xhtml" />
     <mask>*md</mask>
     <mask>*.md</mask>
     <mask>*pom.xml</mask>
@@ -30,11 +30,11 @@
     <mask>*test.java</mask>
     <mask>*properties</mask>
     <mask>*Visit*</mask>
-    <mask>*xhtml</mask>
     <mask>*WebTest.java</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
     <mask>*DTO.java</mask>
     <mask>*DAO.java</mask>
+    <mask>*xhtml</mask>
   </component>
 </application>
