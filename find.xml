@@ -5,9 +5,9 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*pom.xml" />
     <mask>*md</mask>
     <mask>*.md</mask>
-    <mask>*pom.xml</mask>
     <mask>*beans.xml</mask>
     <mask>*revision.xml</mask>
     <mask>@Entity.java</mask>
@@ -31,9 +31,10 @@
     <mask>*DTO.java</mask>
     <mask>*DAO.java</mask>
     <mask>*xhtml</mask>
-    <mask>*java</mask>
     <mask>*</mask>
     <mask>pom.xml</mask>
     <mask>*properties</mask>
+    <mask>*java</mask>
+    <mask>*pom.xml</mask>
   </component>
 </application>
