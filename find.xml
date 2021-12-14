@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*rst" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*beans.xml</mask>
     <mask>*revision.xml</mask>
     <mask>@Entity.java</mask>
@@ -33,8 +33,8 @@
     <mask>pom.xml</mask>
     <mask>*properties</mask>
     <mask>*pom.xml</mask>
-    <mask>*java</mask>
     <mask>*jar</mask>
     <mask>*rst</mask>
+    <mask>*java</mask>
   </component>
 </application>
