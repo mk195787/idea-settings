@@ -5,16 +5,13 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
-    <mask>@Entity.java</mask>
-    <mask>*Settings.java</mask>
+    <option name="FILE_MASK" value="*Functions.java" />
     <mask>*Item*Test*.java</mask>
     <mask>*propertiesd</mask>
     <mask>*changeset.xml</mask>
     <mask>*s.java</mask>
     <mask>*Dialect*.java</mask>
     <mask>*n.java</mask>
-    <mask>*.xml</mask>
     <mask>TrSCP*.java</mask>
     <mask>*.properties</mask>
     <mask>*.xhtml</mask>
@@ -25,7 +22,6 @@
     <mask>*xml</mask>
     <mask>*DTO.java</mask>
     <mask>*DAO.java</mask>
-    <mask>*xhtml</mask>
     <mask>*</mask>
     <mask>pom.xml</mask>
     <mask>*properties</mask>
@@ -36,5 +32,9 @@
     <mask>*fun*.js</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
+    <mask>*doclib.xml</mask>
+    <mask>*xhtml</mask>
+    <mask>*Functions.java</mask>
   </component>
 </application>
