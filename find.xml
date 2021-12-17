@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Functions.java" />
-    <mask>*Item*Test*.java</mask>
+    <option name="FILE_MASK" value="*.js" />
     <mask>*propertiesd</mask>
     <mask>*changeset.xml</mask>
     <mask>*s.java</mask>
@@ -20,7 +19,6 @@
     <mask>*xml</mask>
     <mask>*DTO.java</mask>
     <mask>*DAO.java</mask>
-    <mask>*</mask>
     <mask>pom.xml</mask>
     <mask>*properties</mask>
     <mask>*pom.xml</mask>
@@ -29,10 +27,12 @@
     <mask>*java</mask>
     <mask>*fun*.js</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*doclib.xml</mask>
     <mask>*xhtml</mask>
     <mask>*Functions.java</mask>
+    <mask>*js</mask>
+    <mask>*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
