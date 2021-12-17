@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*beans.xml</mask>
-    <mask>*revision.xml</mask>
+    <option name="FILE_MASK" value="*.js" />
     <mask>@Entity.java</mask>
     <mask>*Settings.java</mask>
     <mask>*Item*Test*.java</mask>
@@ -19,7 +18,6 @@
     <mask>TrSCP*.java</mask>
     <mask>*.properties</mask>
     <mask>*.xhtml</mask>
-    <mask>*.java</mask>
     <mask>*Facade.java</mask>
     <mask>*test.java</mask>
     <mask>*Visit*</mask>
@@ -35,5 +33,8 @@
     <mask>*jar</mask>
     <mask>*rst</mask>
     <mask>*java</mask>
+    <mask>*fun*.js</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
