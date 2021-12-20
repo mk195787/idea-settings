@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*propertiesd</mask>
     <mask>*changeset.xml</mask>
     <mask>*s.java</mask>
@@ -15,7 +16,6 @@
     <mask>*test.java</mask>
     <mask>*Visit*</mask>
     <mask>*WebTest.java</mask>
-    <mask>*xml</mask>
     <mask>*DTO.java</mask>
     <mask>*DAO.java</mask>
     <mask>pom.xml</mask>
@@ -31,7 +31,8 @@
     <mask>*Functions.java</mask>
     <mask>*</mask>
     <mask>*.js</mask>
-    <mask>*java</mask>
     <mask>*js</mask>
+    <mask>*java</mask>
+    <mask>*xml</mask>
   </component>
 </application>
