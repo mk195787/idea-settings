@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*js" />
     <mask>*propertiesd</mask>
     <mask>*changeset.xml</mask>
     <mask>*s.java</mask>
@@ -30,9 +30,9 @@
     <mask>*doclib.xml</mask>
     <mask>*xhtml</mask>
     <mask>*Functions.java</mask>
-    <mask>*js</mask>
     <mask>*</mask>
     <mask>*.js</mask>
     <mask>*java</mask>
+    <mask>*js</mask>
   </component>
 </application>
