@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*propertiesd</mask>
+    <option name="FILE_MASK" value="TSLO*java" />
     <mask>*changeset.xml</mask>
     <mask>*s.java</mask>
     <mask>*Dialect*.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.xml</mask>
     <mask>*java</mask>
     <mask>*xhtml</mask>
+    <mask>TSLO*java</mask>
   </component>
 </application>
