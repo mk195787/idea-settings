@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
-    <mask>*changeset.xml</mask>
+    <option name="FILE_MASK" value="*Configurer.java" />
     <mask>*s.java</mask>
     <mask>*Dialect*.java</mask>
     <mask>*n.java</mask>
@@ -34,5 +33,6 @@
     <mask>*xhtml</mask>
     <mask>TSLO*java</mask>
     <mask>*java</mask>
+    <mask>*Configurer.java</mask>
   </component>
 </application>
