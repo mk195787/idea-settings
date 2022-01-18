@@ -8,7 +8,6 @@
     <mask>*Dialect*.java</mask>
     <mask>*n.java</mask>
     <mask>TrSCP*.java</mask>
-    <mask>*.xhtml</mask>
     <mask>*Facade.java</mask>
     <mask>*test.java</mask>
     <mask>*Visit*</mask>
@@ -33,6 +32,7 @@
     <mask>TSLO*java</mask>
     <mask>*java</mask>
     <mask>*Configurer.java</mask>
+    <mask>*.xhtml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
