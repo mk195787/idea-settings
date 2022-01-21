@@ -3,7 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*xml" />
+    <option name="FILE_MASK" value="*xhtml" />
     <mask>*s.java</mask>
     <mask>*Dialect*.java</mask>
     <mask>*n.java</mask>
@@ -32,7 +32,7 @@
     <mask>*.java</mask>
     <mask>*.xhtml</mask>
     <mask>*.xml</mask>
-    <mask>*xhtml</mask>
     <mask>*xml</mask>
+    <mask>*xhtml</mask>
   </component>
 </application>
