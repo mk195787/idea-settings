@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xhtml" />
-    <mask>*n.java</mask>
+    <option name="FILE_MASK" value="*.sql" />
     <mask>TrSCP*.java</mask>
     <mask>*Facade.java</mask>
     <mask>*test.java</mask>
@@ -34,5 +33,6 @@
     <mask>*properties</mask>
     <mask>*java</mask>
     <mask>*xhtml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
