@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="SGI-30833: Dropdown with cluster demand class name" />
     <option name="defaultScopeName" value="SGI-30833: Dropdown with cluster demand class name" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="SGI-30833: Dropdown with cluster demand class name" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <mask>TrSCP*.java</mask>
     <mask>*Facade.java</mask>
     <mask>*test.java</mask>
@@ -23,8 +26,6 @@
     <mask>*.properties</mask>
     <mask>TSLO*java</mask>
     <mask>*Configurer.java</mask>
-    <mask>*.java</mask>
-    <mask>*.xhtml</mask>
     <mask>*.xml</mask>
     <mask>*Ex*java</mask>
     <mask>*demo.properties</mask>
@@ -33,5 +34,7 @@
     <mask>*java</mask>
     <mask>*xhtml</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
