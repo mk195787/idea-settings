@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="SGI-30833: Dropdown with cluster demand class name" />
+    <option name="defaultScopeName" value="SGI-30833: Dropdown with cluster demand class name" />
+    <option name="SEARCH_SCOPE" value="SGI-30833: Dropdown with cluster demand class name" />
     <mask>TrSCP*.java</mask>
     <mask>*Facade.java</mask>
     <mask>*test.java</mask>
