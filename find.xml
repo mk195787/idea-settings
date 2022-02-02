@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="SGI-30833: Dropdown with cluster demand class name" />
     <option name="defaultScopeName" value="SGI-30833: Dropdown with cluster demand class name" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="SGI-30833: Dropdown with cluster demand class name" />
     <option name="FILE_MASK" value="*.xhtml" />
     <mask>TrSCP*.java</mask>
