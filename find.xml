@@ -3,7 +3,7 @@
     <option name="customScope" value="SGI-30833: Dropdown with cluster demand class name" />
     <option name="defaultScopeName" value="SGI-30833: Dropdown with cluster demand class name" />
     <option name="SEARCH_SCOPE" value="SGI-30833: Dropdown with cluster demand class name" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Facade.java</mask>
     <mask>*test.java</mask>
     <mask>*Visit*</mask>
@@ -32,7 +32,7 @@
     <mask>*menu*.java</mask>
     <mask>*.java</mask>
     <mask>*.xhtml</mask>
-    <mask>*.xml</mask>
     <mask>*java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
