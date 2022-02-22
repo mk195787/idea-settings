@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*java" />
-    <mask>*Facade.java</mask>
     <mask>*test.java</mask>
     <mask>*Visit*</mask>
     <mask>*WebTest.java</mask>
@@ -33,6 +32,7 @@
     <mask>*.xhtml</mask>
     <mask>*xml</mask>
     <mask>*properties</mask>
+    <mask>*Audit*java</mask>
     <mask>*java</mask>
   </component>
 </application>
