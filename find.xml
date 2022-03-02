@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*test.java</mask>
     <mask>*Visit*</mask>
     <mask>*WebTest.java</mask>
@@ -16,7 +16,6 @@
     <mask>*fun*.js</mask>
     <mask>*doclib.xml</mask>
     <mask>*Functions.java</mask>
-    <mask>*</mask>
     <mask>*.js</mask>
     <mask>*js</mask>
     <mask>*.properties</mask>
@@ -32,7 +31,8 @@
     <mask>*.xhtml</mask>
     <mask>*properties</mask>
     <mask>*Audit*java</mask>
-    <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>*</mask>
+    <mask>*xml</mask>
   </component>
 </application>
