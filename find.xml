@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xhtml" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*test.java</mask>
     <mask>*Visit*</mask>
     <mask>*WebTest.java</mask>
@@ -32,9 +30,9 @@
     <mask>*.xhtml</mask>
     <mask>*properties</mask>
     <mask>*Audit*java</mask>
-    <mask>*java</mask>
     <mask>*</mask>
     <mask>*xml</mask>
     <mask>*xhtml</mask>
+    <mask>*java</mask>
   </component>
 </application>
