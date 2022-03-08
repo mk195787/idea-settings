@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xhtml" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*WebTest.java</mask>
     <mask>*DTO.java</mask>
     <mask>*DAO.java</mask>
@@ -23,7 +23,6 @@
     <mask>*demo.properties</mask>
     <mask>*.sql</mask>
     <mask>*menu*.java</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*properties</mask>
     <mask>*Audit*java</mask>
@@ -34,5 +33,6 @@
     <mask>*xhtml</mask>
     <mask>*.css</mask>
     <mask>*.xhtml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
