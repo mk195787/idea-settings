@@ -23,7 +23,6 @@
     <mask>*demo.properties</mask>
     <mask>*.sql</mask>
     <mask>*menu*.java</mask>
-    <mask>*.xml</mask>
     <mask>*properties</mask>
     <mask>*Audit*java</mask>
     <mask>*</mask>
@@ -33,6 +32,7 @@
     <mask>*xhtml</mask>
     <mask>*.css</mask>
     <mask>*.xhtml</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
