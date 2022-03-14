@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
-    <mask>*WebTest.java</mask>
     <mask>*DTO.java</mask>
     <mask>*DAO.java</mask>
     <mask>*pom.xml</mask>
@@ -34,5 +32,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.rst</mask>
   </component>
 </application>
