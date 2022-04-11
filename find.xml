@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*properties" />
     <mask>*DTO.java</mask>
     <mask>*DAO.java</mask>
     <mask>*pom.xml</mask>
@@ -30,8 +31,8 @@
     <mask>*.rst</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
-    <mask>*properties</mask>
     <mask>*xhtml</mask>
     <mask>*js</mask>
+    <mask>*properties</mask>
   </component>
 </application>
