@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xhtml" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*DTO.java</mask>
     <mask>*DAO.java</mask>
     <mask>*pom.xml</mask>
@@ -34,7 +34,7 @@
     <mask>*js</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
-    <mask>*java</mask>
     <mask>*xhtml</mask>
+    <mask>*java</mask>
   </component>
 </application>
