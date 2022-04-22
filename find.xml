@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xhtml" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*DAO.java</mask>
     <mask>*pom.xml</mask>
     <mask>*jar</mask>
@@ -29,10 +29,10 @@
     <mask>*.rst</mask>
     <mask>*js</mask>
     <mask>*Test.java</mask>
-    <mask>*java</mask>
     <mask>*xml</mask>
     <mask>*properties</mask>
     <mask>*css</mask>
     <mask>*xhtml</mask>
+    <mask>*java</mask>
   </component>
 </application>
