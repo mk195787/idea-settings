@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
-    <mask>*fun*.js</mask>
+    <option name="FILE_MASK" value="*ViewBean.java" />
     <mask>*doclib.xml</mask>
     <mask>*Functions.java</mask>
     <mask>*.js</mask>
@@ -34,5 +33,6 @@
     <mask>*.xml</mask>
     <mask>*.xhtml</mask>
     <mask>*.properties</mask>
+    <mask>*ViewBean.java</mask>
   </component>
 </application>
