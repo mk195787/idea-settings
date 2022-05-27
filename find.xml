@@ -5,8 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xhtml" />
-    <mask>*jar</mask>
+    <option name="FILE_MASK" value="*Service.java" />
     <mask>*rst</mask>
     <mask>*fun*.js</mask>
     <mask>*doclib.xml</mask>
@@ -34,7 +33,8 @@
     <mask>*</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
-    <mask>*java</mask>
     <mask>*xhtml</mask>
+    <mask>*java</mask>
+    <mask>*Service.java</mask>
   </component>
 </application>
