@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*policy*java" />
-    <mask>*.js</mask>
+    <option name="FILE_MASK" value="*xhtml" />
     <mask>TSLO*java</mask>
     <mask>*Configurer.java</mask>
     <mask>*Ex*java</mask>
@@ -23,7 +22,6 @@
     <mask>*Configuration.java</mask>
     <mask>*</mask>
     <mask>*properties</mask>
-    <mask>*xhtml</mask>
     <mask>*java</mask>
     <mask>*Service.java</mask>
     <mask>*xml</mask>
@@ -34,5 +32,7 @@
     <mask>*ViewBean.java</mask>
     <mask>*.sh</mask>
     <mask>*policy*java</mask>
+    <mask>*policy*xhtml</mask>
+    <mask>*xhtml</mask>
   </component>
 </application>
