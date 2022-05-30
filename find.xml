@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Functions.java</mask>
+    <option name="FILE_MASK" value="*policy*java" />
     <mask>*.js</mask>
     <mask>TSLO*java</mask>
     <mask>*Configurer.java</mask>
@@ -33,5 +33,6 @@
     <mask>*.properties</mask>
     <mask>*ViewBean.java</mask>
     <mask>*.sh</mask>
+    <mask>*policy*java</mask>
   </component>
 </application>
