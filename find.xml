@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*doclib.xml</mask>
     <mask>*Functions.java</mask>
     <mask>*.js</mask>
     <mask>TSLO*java</mask>
@@ -33,5 +32,6 @@
     <mask>*.xhtml</mask>
     <mask>*.properties</mask>
     <mask>*ViewBean.java</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
