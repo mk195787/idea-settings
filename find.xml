@@ -3,10 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
-    <mask>TSLO*java</mask>
-    <mask>*Configurer.java</mask>
-    <mask>*Ex*java</mask>
     <mask>*demo.properties</mask>
     <mask>*.sql</mask>
     <mask>*menu*.java</mask>
@@ -34,5 +30,8 @@
     <mask>*policy*xhtml</mask>
     <mask>*xhtml</mask>
     <mask>*java</mask>
+    <mask>*webs*xml</mask>
+    <mask>*view*xml</mask>
+    <mask>*menu*xml</mask>
   </component>
 </application>
