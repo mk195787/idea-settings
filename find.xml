@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*properties" />
     <mask>*.sql</mask>
     <mask>*menu*.java</mask>
     <mask>*Audit*java</mask>
@@ -16,7 +17,6 @@
     <mask>*js</mask>
     <mask>*Configuration.java</mask>
     <mask>*</mask>
-    <mask>*properties</mask>
     <mask>*Service.java</mask>
     <mask>*xml</mask>
     <mask>*pom.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*view*xml</mask>
     <mask>*menu*xml</mask>
     <mask>*Builder.java</mask>
+    <mask>*properties</mask>
   </component>
 </application>
