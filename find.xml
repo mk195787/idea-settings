@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*xhtml" />
     <mask>*menu*.java</mask>
     <mask>*Audit*java</mask>
     <mask>*.css</mask>
@@ -25,7 +25,6 @@
     <mask>*.sh</mask>
     <mask>*policy*java</mask>
     <mask>*policy*xhtml</mask>
-    <mask>*xhtml</mask>
     <mask>*webs*xml</mask>
     <mask>*view*xml</mask>
     <mask>*menu*xml</mask>
@@ -34,5 +33,6 @@
     <mask>*xml</mask>
     <mask>*sql</mask>
     <mask>*java</mask>
+    <mask>*xhtml</mask>
   </component>
 </application>
