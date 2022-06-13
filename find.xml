@@ -32,8 +32,8 @@
     <mask>*Builder.java</mask>
     <mask>*sql</mask>
     <mask>*xhtml</mask>
+    <mask>*xml</mask>
     <mask>*properties</mask>
     <mask>*java</mask>
-    <mask>*xml</mask>
   </component>
 </application>
