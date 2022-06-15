@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*menu*.java</mask>
+    <option name="FILE_MASK" value="*DTO.java" />
     <mask>*Audit*java</mask>
     <mask>*.css</mask>
     <mask>pom.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*sql</mask>
     <mask>*xhtml</mask>
     <mask>*java</mask>
+    <mask>*DTO.java</mask>
   </component>
 </application>
