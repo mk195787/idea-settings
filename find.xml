@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*Audit*java</mask>
     <mask>*.css</mask>
     <mask>pom.xml</mask>
@@ -19,7 +20,6 @@
     <mask>*.xml</mask>
     <mask>*.xhtml</mask>
     <mask>*.properties</mask>
-    <mask>*ViewBean.java</mask>
     <mask>*.sh</mask>
     <mask>*policy*java</mask>
     <mask>*policy*xhtml</mask>
@@ -29,9 +29,10 @@
     <mask>*Builder.java</mask>
     <mask>*sql</mask>
     <mask>*DTO.java</mask>
-    <mask>*xml</mask>
     <mask>*properties</mask>
     <mask>*java</mask>
     <mask>*xhtml</mask>
+    <mask>*ViewBean.java</mask>
+    <mask>*xml</mask>
   </component>
 </application>
