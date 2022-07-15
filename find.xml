@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*sql" />
     <mask>*.css</mask>
     <mask>*Test.java</mask>
     <mask>*css</mask>
@@ -25,7 +26,6 @@
     <mask>*Builder.java</mask>
     <mask>*DTO.java</mask>
     <mask>*ViewBean.java</mask>
-    <mask>*sql</mask>
     <mask>*demo*sql</mask>
     <mask>pom.xml</mask>
     <mask>*</mask>
@@ -33,5 +33,6 @@
     <mask>*properties</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>*sql</mask>
   </component>
 </application>
