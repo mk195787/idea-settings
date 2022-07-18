@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*sql" />
+    <option name="FILE_MASK" value="*properties" />
     <mask>*.css</mask>
     <mask>*Test.java</mask>
     <mask>*css</mask>
@@ -32,9 +32,9 @@
     <mask>pom.xml</mask>
     <mask>*</mask>
     <mask>*xhtml</mask>
-    <mask>*properties</mask>
     <mask>*xml</mask>
-    <mask>*java</mask>
     <mask>*sql</mask>
+    <mask>*java</mask>
+    <mask>*properties</mask>
   </component>
 </application>
