@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*css</mask>
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*Type.java</mask>
     <mask>*.java</mask>
     <mask>*.rst</mask>
@@ -35,5 +35,6 @@
     <mask>*properties</mask>
     <mask>*test*properties</mask>
     <mask>SGI*.xml</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
