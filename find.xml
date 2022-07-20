@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Type.java</mask>
     <mask>*.java</mask>
     <mask>*.rst</mask>
@@ -12,9 +13,7 @@
     <mask>*Configuration.java</mask>
     <mask>*Service.java</mask>
     <mask>*pom.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.xhtml</mask>
-    <mask>*.properties</mask>
     <mask>*.sh</mask>
     <mask>*policy*java</mask>
     <mask>*policy*xhtml</mask>
@@ -35,5 +34,7 @@
     <mask>*properties</mask>
     <mask>*java</mask>
     <mask>*</mask>
+    <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
