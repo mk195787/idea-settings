@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Type.java</mask>
+    <option name="FILE_MASK" value="UI*java" />
     <mask>*.java</mask>
     <mask>*.rst</mask>
     <mask>*js</mask>
@@ -39,5 +39,6 @@
     <mask>*sql</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>UI*java</mask>
   </component>
 </application>
