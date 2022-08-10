@@ -23,7 +23,6 @@
     <mask>*view*xml</mask>
     <mask>*menu*xml</mask>
     <mask>*Builder.java</mask>
-    <mask>*DTO.java</mask>
     <mask>*ViewBean.java</mask>
     <mask>*demo*sql</mask>
     <mask>pom.xml</mask>
@@ -39,6 +38,7 @@
     <mask>*java</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
+    <mask>*DTO.java</mask>
     <mask>*xhtml</mask>
   </component>
 </application>
