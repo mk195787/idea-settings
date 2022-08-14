@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xhtml" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.rst</mask>
     <mask>*js</mask>
     <mask>*Configuration.java</mask>
@@ -26,7 +26,6 @@
     <mask>*test*properties</mask>
     <mask>SGI*.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*</mask>
     <mask>*sql</mask>
@@ -38,5 +37,6 @@
     <mask>*java</mask>
     <mask>*.java</mask>
     <mask>*.xhtml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
