@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*properties" />
     <mask>*.rst</mask>
     <mask>*js</mask>
     <mask>*Configuration.java</mask>
@@ -20,7 +22,6 @@
     <mask>*Builder.java</mask>
     <mask>*ViewBean.java</mask>
     <mask>*demo*sql</mask>
-    <mask>pom.xml</mask>
     <mask>*test*properties</mask>
     <mask>SGI*.xml</mask>
     <mask>*Test.java</mask>
@@ -28,7 +29,6 @@
     <mask>*</mask>
     <mask>*sql</mask>
     <mask>UI*java</mask>
-    <mask>*properties</mask>
     <mask>*DTO.java</mask>
     <mask>*xhtml</mask>
     <mask>*.java</mask>
@@ -36,5 +36,7 @@
     <mask>*.xhtml</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>pom.xml</mask>
+    <mask>*properties</mask>
   </component>
 </application>
