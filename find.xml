@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*js</mask>
     <mask>*Configuration.java</mask>
     <mask>*Service.java</mask>
     <mask>*pom.xml</mask>
@@ -27,7 +26,6 @@
     <mask>UI*java</mask>
     <mask>*DTO.java</mask>
     <mask>*xhtml</mask>
-    <mask>*.xhtml</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
@@ -35,5 +33,7 @@
     <mask>*.java</mask>
     <mask>*tslo*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.xhtml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
