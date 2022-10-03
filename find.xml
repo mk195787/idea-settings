@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="*xhtml" />
     <mask>*Configuration.java</mask>
     <mask>*Service.java</mask>
     <mask>*pom.xml</mask>
@@ -26,7 +26,6 @@
     <mask>*sql</mask>
     <mask>UI*java</mask>
     <mask>*DTO.java</mask>
-    <mask>*xhtml</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
     <mask>*.java</mask>
@@ -36,5 +35,6 @@
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>*java</mask>
+    <mask>*xhtml</mask>
   </component>
 </application>
